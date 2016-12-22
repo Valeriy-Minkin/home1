@@ -1,0 +1,24 @@
+﻿<xapCache source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="29.06.2015 7:37:14">
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\obj\Debug\com.example.demo.dll" archivePath="com.example.demo.dll" lastWriteTime="29.06.2015 7:37:13" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\www\js\statusbar.js" archivePath="www\js\statusbar.js" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\www\plugins\org.apache.cordova.statusbar\www\statusbar.js" archivePath="www\plugins\org.apache.cordova.statusbar\www\statusbar.js" lastWriteTime="29.06.2015 7:37:10" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\VERSION" archivePath="VERSION" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="19.06.2015 1:16:31" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="18.06.2015 17:57:24" />
+  <file source="C:\Users\Seven\Documents\Cordova\Demo\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="21.06.2015 14:58:11" />
+</xapCache>
